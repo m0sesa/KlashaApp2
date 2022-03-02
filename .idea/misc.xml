@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_bank_24.xml" value="0.16927083333333334" />
+        <entry key="app/src/main/res/drawable/ic_baseline_credit_card_24.xml" value="0.16927083333333334" />
+        <entry key="app/src/main/res/drawable/ic_mobile_24.xml" value="0.16927083333333334" />
+        <entry key="app/src/main/res/drawable/ic_wallet_24.xml" value="0.16927083333333334" />
+        <entry key="app/src/main/res/drawable/spinner_background.xml" value="0.22708333333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_bank.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_card.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/layout/fragment_klasha_wallet.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/fragment_mobile_money.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/fragment_mpesa.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout_bottom_sheet.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/layout/layout_payment.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.16770833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

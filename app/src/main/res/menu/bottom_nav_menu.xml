@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_card"
+        android:icon="@drawable/ic_baseline_credit_card_24"
+        android:title="@string/title_card" />
+
+    <item
+        android:id="@+id/navigation_bank"
+        android:icon="@drawable/ic_bank_24"
+        android:title="@string/title_bank" />
+
+    <item
+        android:id="@+id/navigation_klasha_wallet"
+        android:icon="@drawable/ic_wallet_24"
+        android:title="@string/title_klasha_wallet" />
+
+    <item
+        android:id="@+id/navigation_mobile_money"
+        android:icon="@drawable/ic_mobile_24"
+        android:title="@string/title_mobile_money" />
+
+    <item
+        android:id="@+id/navigation_mpesa"
+        android:icon="@drawable/ic_mobile_24"
+        android:title="@string/title_mpesa" />
+
+</menu>

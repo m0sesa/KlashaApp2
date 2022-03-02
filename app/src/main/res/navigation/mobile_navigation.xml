@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_card">
+
+    <fragment
+        android:id="@+id/navigation_card"
+        android:name="com.klasha.klashaapp2.ui.card.CardFragment"
+        android:label="@string/title_card"
+        tools:layout="@layout/fragment_card" />
+
+    <fragment
+        android:id="@+id/navigation_bank"
+        android:name="com.klasha.klashaapp2.ui.bank.BankFragment"
+        android:label="@string/title_bank"
+        tools:layout="@layout/fragment_bank" />
+
+    <fragment
+        android:id="@+id/navigation_klasha_wallet"
+        android:name="com.klasha.klashaapp2.ui.wallet.WalletFragment"
+        android:label="@string/title_klasha_wallet"
+        tools:layout="@layout/fragment_klasha_wallet" />
+
+    <fragment
+        android:id="@+id/navigation_mobile_money"
+        android:name="com.klasha.klashaapp2.ui.mobilemoney.MobileMoneyFragment"
+        android:label="@string/title_mobile_money"
+        tools:layout="@layout/fragment_mobile_money" />
+
+    <fragment
+        android:id="@+id/navigation_mpesa"
+        android:name="com.klasha.klashaapp2.ui.mpesa.MpesaFragment"
+        android:label="@string/title_mpesa"
+        tools:layout="@layout/fragment_mpesa" />
+</navigation>
